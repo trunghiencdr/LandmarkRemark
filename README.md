@@ -28,7 +28,7 @@ This is an Android application developed in Kotlin that uses the Mapbox SDK. The
 
 ### Installing
 
-1. Clone the repo: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repo: `https://github.com/trunghiencdr/LandmarkRemark.git`
 2. Open the project in Android Studio.
 3. Build and run the project on the emulator or your device.
 
