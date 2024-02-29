@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item
-        android:id="@+id/action_view_annotation_fixed_delay"
-        android:title="view_annotation_mode_map_fixed_delay"/>
-    <item
-        android:id="@+id/action_view_annotation_map_synchronized"
-        android:title="view_annotation_mode_map_sync"/>
-</menu>

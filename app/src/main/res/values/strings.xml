@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">LandmarkRemark</string>
+    <string name="mapbox_access_token" translatable="false" tools:ignore="UnusedResources">pk.eyJ1IjoidG50aGllbiIsImEiOiJjbHQzNzU0OWwwMGszMmttOWxpcHNzNmVlIn0.66IlfBcKx9pDWF-YZMmKBg</string>
+    <string name="content_description_close">Close callout</string>
+    <string name="error">Error</string>
+    <string name="username_existed">Username has existed. Please type in others.</string>
+    <string name="session_expired">Your session is expired</string>
+    <string name="login_failed">Re-check your username and password</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="enter_username">Enter your username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="back_login">Back to login</string>
+    <string name="add_note_current">Add note for current location</string>
+    <string name="add_note">Add note</string>
+    <string name="name_required">Name required</string>
+    <string name="note_required">Note is required</string>
+</resources>
