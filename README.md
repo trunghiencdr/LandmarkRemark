@@ -10,7 +10,7 @@ This is an Android application developed in Kotlin that uses the Mapbox SDK. The
 - **👁️ View Note**: Any notes added will be visible to the user. They can view the details of the note by clicking on it on the map.
 - **🗑️ Delete Note**: Users have the ability to delete any notes they have created.
 - **🔒 Login/Logout**: The app includes user authentication. Users can create an account, login, and logout.
-- **⏱️ Real-Time Updates**: The app updates in real-time. When a note is added or deleted, the map will update immediately without needing to refresh.
+- **⏱️ Real-Time Updates**(Firebase): The app updates in real-time. When a note is added or deleted, the map will update immediately without needing to refresh.
 - **👥 View Other User's Notes**: Users can view notes added by other users.
 
 ## 🏁 Getting Started
